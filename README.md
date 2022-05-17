@@ -3,4 +3,4 @@ CS 583 Project: Classifying sentiment or opinion expressed in tweets into one of
 
 EDA: https://github.com/komar41/Twitter-Sentiment-Analysis-2012-US-Election/blob/main/Sentiment%20Analysis/cs583%20sentimentAnalysis-EDA.ipynb
 
-Sentiment Analysis: https://github.com/komar41/Twitter-Sentiment-Analysis-2012-US-Election/blob/main/Sentiment%20Analysis/cs583%20sentimentAnalysis-EDA.ipynb
+Sentiment Analysis: https://github.com/komar41/Twitter-Sentiment-Analysis-2012-US-Election/blob/main/Sentiment%20Analysis/cs583%20sentimentAnalysis.ipynb
