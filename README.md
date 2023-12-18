@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis US 2012 Election
-Classification of sentiment expressed in tweets regarding 2012 US election into **positive** and **negative** classes.
+The primary goal of this project is to classify sentiments expressed in tweets regarding the 2012 US election into **positive** and **negative** classes. **Sentiment analysis**, also known as opinion mining, is the process of determining and categorizing the emotions or opinions conveyed in a piece of text.
 
 #### Exploratory Data Analysis
 
