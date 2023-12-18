@@ -1,9 +1,8 @@
 # Twitter Sentiment Analysis US 2012 Election
 The primary goal of this project is to classify sentiments expressed in tweets regarding the 2012 US election into **positive** and **negative** classes. **Sentiment analysis**, also known as opinion mining, is the process of determining and categorizing the emotions or opinions conveyed in a piece of text.
 
-#### Exploratory Data Analysis
-
-**Data pre-processing**: First, we clean the tweets! Lowercasing, removing URLs and usernames, punctuation and numbers.
+#### Data Wrangling
+First, we clean the tweets! Lowercasing, removing URLs and usernames, punctuation and numbers.
 ```
 def dataClean(tweets_raw):
     cleanTweets = []
@@ -31,6 +30,7 @@ def dataClean(tweets_raw):
     return cleanTweets
 ```
 
+#### Exploratory Data Analysis
 After cleaning the data, we move on to analysis. We checked the data distribution, words per tweet, and unique words in both Obama and Romney tweets. The following images are few of these highlights.
 
 ![Alt text](assets/obama_tweets.png)
