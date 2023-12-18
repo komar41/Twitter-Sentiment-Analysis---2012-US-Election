@@ -40,7 +40,7 @@ After cleaning the data, we move on to analysis. We checked the data distributio
 ![Alt text](assets/words_per_tweet.png)
 
 #### Data Modeling and Results
-After data preprocessing and anlysis, we trained the clean data on eight machine learning algorithms for sentiment classification. We performed tests using both 80-20 train-test split and 10-fold cross validation. Furthermore, we analyzed precision, recall, F1-score and accuracy measures. The results highlight that overall **support vector machine** performed better than the other models. Model **accuracy** for sentiment classification on both obama and romney tweets are highlighted in the image below.
+After data preprocessing and anlysis, we trained the clean data on eight machine learning algorithms for sentiment classification. We performed tests using both 80-20 train-test split and 10-fold cross validation. Furthermore, we analyzed precision, recall, F1-score and accuracy measures. The results highlight that overall **support vector machine** performed better than the other models. Model **accuracy** for sentiment analysis on both obama and romney tweets are highlighted in the image below.
 
 ![Alt text](assets/accuracy_.png)
 
