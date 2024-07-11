@@ -1,7 +1,10 @@
 # Twitter Sentiment Analysis: US 2012 Election
 The primary goal of this project is to classify sentiments expressed in tweets regarding the 2012 US election into **positive** and **negative** classes. **Sentiment analysis**, also known as opinion mining, is the process of determining and categorizing the emotions or opinions conveyed in a piece of text.
 
-### Data Wrangling
+- __Access this project:__ https://komar41.github.io/US-Gun-Deaths
+- __Tools used:__ - Python, NumPy, Pandas, nltk, scikit-learn, matplotlib, seaborn, TensorFlow, Keras, 
+
+## Data Wrangling
 First, we clean the tweets! Lowercasing, removing URLs and usernames, punctuation and numbers.
 ```
 def dataClean(tweets_raw):
@@ -30,7 +33,7 @@ def dataClean(tweets_raw):
     return cleanTweets
 ```
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 After cleaning the data, we move on to analysis. We checked the data distribution, words per tweet, and unique words in both Obama and Romney tweets. The following images are few of these highlights.
 
 ![Alt text](assets/obama_tweets.png)
@@ -39,7 +42,7 @@ After cleaning the data, we move on to analysis. We checked the data distributio
 
 ![Alt text](assets/words_per_tweet.png)
 
-### Data Modeling and Results
+## Data Modeling and Results
 After data preprocessing and anlysis, we trained the clean data on eight machine learning algorithms for sentiment classification. We performed tests using both 80-20 train-test split and 10-fold cross validation. Furthermore, we analyzed precision, recall, F1-score and accuracy measures. The results highlight that overall **support vector machine** performed better than the other models. Model **accuracy** for sentiment analysis on both obama and romney tweets are highlighted in the image below.
 
 ![Alt text](assets/accuracy_.png)
