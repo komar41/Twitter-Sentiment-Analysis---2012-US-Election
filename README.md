@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis: US 2012 Election
 The primary goal of this project is to classify sentiments expressed in tweets regarding the 2012 US election into **positive** and **negative** classes. **Sentiment analysis**, also known as opinion mining, is the process of determining and categorizing the emotions or opinions conveyed in a piece of text.
 
-- __Access this project:__ https://komar41.github.io/US-Gun-Deaths
+- __Access this project:__ https://github.com/komar41/twitter-sentiment-analysis
 - __Tools used:__ - Python, NumPy, Pandas, nltk, scikit-learn, matplotlib, seaborn, TensorFlow, Keras, 
 
 ## Data Wrangling
