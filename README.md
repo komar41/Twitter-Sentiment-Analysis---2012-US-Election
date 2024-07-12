@@ -48,3 +48,7 @@ After data preprocessing and anlysis, we trained the clean data on eight machine
 ![Alt text](assets/accuracy_.png)
 
 For more information, see the notebooks inside [Sentiment Analysis](https://github.com/komar41/twitter-sentiment-analysis/tree/main/Sentiment%20Analysis) folder.
+
+## Team
+- Kazi Shahrukh Omar
+- Soham Pradhan
